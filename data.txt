@@ -1,0 +1,2 @@
+Electronics, 12, hadeel, 5.0, 1234.0, shahd, 50.0
+Electronics, 12, hadeel, 5.0, 1234.0, shahd, 50.0
