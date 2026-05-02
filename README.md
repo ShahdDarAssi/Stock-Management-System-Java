@@ -26,5 +26,5 @@ How to Run:
 3. Run the Main class
 
 Notes:
- - mTax for Grocery = 5.75%
+ - Tax for Grocery = 5.75%
  - Tax for Electronics = 16.5%
